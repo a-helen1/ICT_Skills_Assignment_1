@@ -1,0 +1,10 @@
+{
+  "trainers" : [
+    {
+      "name": "Bart Simpson",
+      "email": "bart@simpson.com",
+      "password": "secret",
+      "id": "80"
+    }
+  ]
+}

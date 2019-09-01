@@ -1,0 +1,15 @@
+{{> menu id="dashboard"}}
+
+{{#each users}}
+    <section class="ui segment">
+        <h2 class="ui header">
+            <i class="huge user circle icon"></i>
+            <div class="content">
+                <a href="/trainerlistassessments/{{id}}" class="header">{{name}}</a>
+            </div>
+        </h2>
+        <a href="/trainerdashboard/deleteuser/{{id}}" class="ui icon button">
+            <i class="icon trash"></i>
+        </a>
+    </section>
+{{/each}}

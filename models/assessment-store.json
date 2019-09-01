@@ -1,0 +1,48 @@
+{
+  "assessments": [
+    {
+      "id": "592d895f-a58d-45be-87b9-cfa2667239a3",
+      "userid": "dfc00137-ed07-41e7-9be1-2d10354e865a",
+      "weight": "80",
+      "chest": "90",
+      "thigh": "70",
+      "upperArm": "50",
+      "waist": "60",
+      "hips": "40",
+      "time": 1567367186
+    },
+    {
+      "id": "a572f071-a9fb-4072-8d85-9be5a5867938",
+      "userid": "dfc00137-ed07-41e7-9be1-2d10354e865a",
+      "weight": "40",
+      "chest": "60",
+      "thigh": "40",
+      "upperArm": "30",
+      "waist": "60",
+      "hips": "50",
+      "time": 1567367195
+    },
+    {
+      "id": "93683ee9-adc4-46d8-875b-a7d4424fda10",
+      "userid": "dfc21fc4-527a-4cd5-944d-eddd40f874ab",
+      "weight": "80",
+      "chest": "90",
+      "thigh": "70",
+      "upperArm": "60",
+      "waist": "40",
+      "hips": "60",
+      "time": 1567367320
+    },
+    {
+      "id": "61fe9f55-dc15-4e19-87b4-057b9cada0c5",
+      "userid": "dfc21fc4-527a-4cd5-944d-eddd40f874ab",
+      "weight": "50",
+      "chest": "4060",
+      "thigh": "40",
+      "upperArm": "30",
+      "waist": "5040",
+      "hips": "50",
+      "time": 1567367327
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{{> menu id="dashboard"}}
+{{>analytics}}
+     {{#each assessments}}
+<table class="ui table">
+    <thead>
+    <tr>
+        <th>Weight</th>
+        <th>Chest</th>
+        <th>Thigh</th>
+        <th>Upper Arm</th>
+        <th>Waist</th>
+        <th>Hips</th>
+    </tr>
+    </thead>
+    <tbody>
+
+        <tr>
+            <td>
+                {{weight}}
+            </td>
+            <td>
+                {{chest}}
+            </td>
+            <td>
+                {{thigh}}
+            </td>
+            <td>
+                {{upperArm}}
+            </td>
+            <td>
+                {{waist}}
+            </td>
+            <td>
+                {{hips}}
+            </td>
+        </tr>
+            <tr>
+                <td colspan="7">
+                    <div class="ui form" action="">
+                        <div class="field">
+                            <label>Comments</label>
+                            <textarea rows="2"></textarea>
+                        </div>
+                        <div>
+                             <button class="ui blue submit button">Update</button>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+
+    {{/each}}
+    </tbody>
+</table>

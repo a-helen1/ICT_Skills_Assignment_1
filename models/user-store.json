@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "name": "Marge Simpson",
+      "gender": "0",
+      "email": "marge@simpson.com",
+      "password": "secret",
+      "address": "home",
+      "height": "1.6",
+      "startingweight": "55",
+      "id": "dfc00137-ed07-41e7-9be1-2d10354e865a"
+    },
+    {
+      "name": "Homer Simpson",
+      "gender": "1",
+      "email": "homer@simpson.com",
+      "password": "secret",
+      "address": "home",
+      "height": "1.8",
+      "startingweight": "89",
+      "id": "dfc21fc4-527a-4cd5-944d-eddd40f874ab"
+    }
+  ]
+}
